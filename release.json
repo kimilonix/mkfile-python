@@ -8,7 +8,7 @@
       }],
       ["@semantic-release/git", {
         "assets": [
-          "setup.py",
+          "py1.py",
           "CHANGELOG.md"
         ]
       }]
